@@ -31,7 +31,7 @@ Simply put all .m files into a directory, and specify that directory in Main560.
 
 * [Mathematica](https://www.wolfram.com/mathematica/) - The Wolfram Mathematica Language
 
-## Authors
+## Author
 
 * **Yu-Hsiang Lin** - [LinkedIn](https://www.linkedin.com/in/yhl2997925/)
 
